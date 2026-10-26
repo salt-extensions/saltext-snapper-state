@@ -1,4 +1,4 @@
-.. all-saltext.snapper-state.states:
+.. all-saltext.snapper_state.states:
 
 _____________
 State Modules
